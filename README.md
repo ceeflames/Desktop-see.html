@@ -1,2 +1,4 @@
 # Password-Generator
-# Random password generator that combines digits and CAP for stronger passwords.
+# Random password generator 
+# That combines both digits, CAP and signs for stronger passwords
+# Choose the lenght of your password.
